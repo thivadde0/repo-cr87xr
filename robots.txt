@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thivadde0.github.io/repo-cr87xr/sitemap.xml
+# Atom Feed: https://thivadde0.github.io/repo-cr87xr/feed.xml
